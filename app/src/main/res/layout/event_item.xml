@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="?listPreferredItemHeight"
+              android:padding="10dp"
+              android:orientation="horizontal"
+              tools:context=".events.EventsActivity">
+    <TextView
+            android:id="@+id/event_title"
+            android:text="1234"
+            android:layout_weight="1"
+            android:maxLines="1"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"/>
+    <ImageView
+            android:id="@+id/evnet_handle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_event_btn"
+            android:layout_gravity="center"/>
+</LinearLayout>
