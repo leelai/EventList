@@ -1,6 +1,9 @@
 # EventList
 The EventList is a personal event managment app,  provides users with the ability to add, modify, and delete events, as well as click events to view event details.
 
+# Demo
+![sample](/preview/add_event.gif)
+
 # Dependencies
 *  Kotlin stdlib
 *  kotlin-android plugin
