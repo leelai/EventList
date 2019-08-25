@@ -7,9 +7,6 @@ The EventList is a personal event managment app,  provides users with the abilit
 # Dependencies
 *  Kotlin stdlib
 *  kotlin-android plugin
-*  [ActionSheet](https://github.com/WindSekirun/ActionSheet)
-*  [Android-ItemTouchHelper-Demo](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo)
-*  [DateTimeWidget](https://github.com/techartist/DateTimeWidget)
 
 # Implementing the app
 * This app is composed of five activities; display events, show detailed events, add/edit event, add category and select date time interval.
@@ -17,3 +14,8 @@ The EventList is a personal event managment app,  provides users with the abilit
 
 ![mvp](/preview/mvp.png)
 * The data is stored locally in a SQLite database, using [Room](https://developer.android.com/topic/libraries/architecture/room.html).
+
+# Third party library
+*  [ActionSheet](https://github.com/WindSekirun/ActionSheet)
+*  [Android-ItemTouchHelper-Demo](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo)
+*  [DateTimeWidget](https://github.com/techartist/DateTimeWidget)
