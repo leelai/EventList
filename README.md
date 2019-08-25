@@ -2,7 +2,7 @@
 The EventList is a personal event managment app,  provides users with the ability to add, modify, and delete events, as well as click events to view event details.
 
 # Demo
-![sample](/preview/add_event.gif)
+![sample](/preview/add_event.gif)![sample](/preview/reorder.gif)![sample](/preview/add_new_category.gif)
 
 # Dependencies
 *  Kotlin stdlib
